@@ -1,2 +1,0 @@
-# Cvc-energia
-Cvc
